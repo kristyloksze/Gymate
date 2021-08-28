@@ -158,8 +158,8 @@ small {
 }
 
 mark {
-  padding: 0.2em;
-  background-color: #fcf8e3;
+  padding: none;
+  background-color: rgba(155, 60, 5, 0.16);
 }
 
 sub,
@@ -257,7 +257,7 @@ table {
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #6c757d;
+  color: #FDFCFC;
   text-align: left;
 }
 

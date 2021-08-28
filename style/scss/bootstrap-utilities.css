@@ -1652,6 +1652,10 @@
   font-size: 1rem !important;
 }
 
+.fs-7 {
+  font-size: 0.875rem !important;
+}
+
 .fst-italic {
   font-style: italic !important;
 }
@@ -1792,7 +1796,7 @@
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #FDFCFC !important;
 }
 
 .text-black-50 {
